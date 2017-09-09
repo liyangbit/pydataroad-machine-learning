@@ -4,7 +4,7 @@
 
 《机器学习实战》（Machine Learning in Action）这本书，作者为 Peter Harrington。
 
-<img src="01photo/1.jpg" width="400"/>
+<img src="../01photo/1.jpg" width="400"/>
 
 
 在开始阅读这本书之前，做了一个简单的阅读计划，预计花 **35天** 左右的时间，自己看一遍这本书，比较有系统的学习下机器学习的相关算法原理。
