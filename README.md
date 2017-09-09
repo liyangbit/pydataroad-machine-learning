@@ -19,8 +19,8 @@
 
 # 二、支持文件列表
 
-* [学习计划excel模版](Plan/01Plan_Management.xlsx)
-* [问题汇总](StudyNotes/问题汇总.md)
+* [学习计划excel模版](https://github.com/liyangbit/pydataroad-machine-learning/tree/master/Plan)
+* [问题汇总](https://github.com/liyangbit/pydataroad-machine-learning/tree/master/StudyNotes)
 * 打卡活动和微信群，请阅读下面内容
 
 
