@@ -1,6 +1,17 @@
 
 
-# 一、欢迎关注微信公众号
+# 支持文件列表
+
+
+* [学习计划Excel模版](https://github.com/liyangbit/pydataroad-machine-learning/tree/master/Plan)
+* [问题汇总](https://github.com/liyangbit/pydataroad-machine-learning/tree/master/StudyNotes)
+* 打卡活动和微信群，请阅读下面内容
+
+### 机器学习很枯燥，不想继续学了怎么办？
+
+
+
+# 欢迎关注微信公众号
 
 欢迎关注个人微信公众号“**Python数据之道**”（公号ID：**PyDataRoad** ）
 
@@ -12,17 +23,8 @@
 
 (b) [精华文章推荐](http://mp.weixin.qq.com/s?__biz=MzI2NjY5NzI0NA==&mid=2247484074&idx=1&sn=cb6174702fe8f495a37df8a74ef30ffe&chksm=ea8b6dd9ddfce4cffc0ea8aa1c3b5c51cf3623b2ae6b43ae7f7e0c5ab8a8db70d5f05f967eaf&scene=21#wechat_redirect)
 
+# 捐赠支持
 
-
-<img src="01photo/foot.jpg" width="400"/>
-
-
-# 二、支持文件列表
-
-* [学习计划excel模版](https://github.com/liyangbit/pydataroad-machine-learning/tree/master/Plan)
-* [问题汇总](https://github.com/liyangbit/pydataroad-machine-learning/tree/master/StudyNotes)
-* 打卡活动和微信群，请阅读下面内容
-
-
-
-# 三、机器学习很枯燥，不想继续学了怎么办？
+| <center>遇见，是缘</center> | <center>欢迎关注</center> |
+| ---------------------------------------- | ---------------------------------------- |
+| <img src="./01photo/wechat-pay.png" width="400"/> | <img src="./01photo/foot.jpg" width="400"/> |
