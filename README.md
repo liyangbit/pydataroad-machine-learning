@@ -2,9 +2,9 @@
 
 # 支持文件列表
 
-参与打卡活动“**45天机器学习实战**”和加入 **微信群**，请点击下文：
+参与打卡活动“**45天机器学习实战**”或加入 **机器学习微信群**，请点击下文：
 
-[机器学习很枯燥，不想继续学了怎么办？或许，这些建议值得一看]()
+[机器学习很枯燥，不想继续学了怎么办？或许，这些建议值得一看](http://mp.weixin.qq.com/s?__biz=MzI2NjY5NzI0NA==&mid=2247484148&idx=1&sn=263fb173542a54e7bc333725f43c5fdc&chksm=ea8b6d87ddfce49153450f434c0593f9a7faacd53ea185f9869fb7df757bc4638ae5a8fa3e44#rd)
 
 * [源代码：《机器学习实战》](https://github.com/liyangbit/pydataroad-machine-learning/tree/master/SourceCode_MachineLearninginAction)
 * [学习计划Excel模版](https://github.com/liyangbit/pydataroad-machine-learning/tree/master/Plan)
